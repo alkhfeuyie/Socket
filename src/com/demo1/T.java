@@ -5,5 +5,6 @@ public class T {
 		System.out.println("1111");
 		
 		System.out.println("xiaojun");
+		System.out.println("test");
 	}
 }
